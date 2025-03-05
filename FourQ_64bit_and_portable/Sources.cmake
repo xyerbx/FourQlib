@@ -22,6 +22,6 @@ rbx_target_sources(
     SOURCES
     consts.c
     fp_x64.h
-    fp2_1271_AVX2.S
-    fp2_1271.S
+    #fp2_1271_AVX2.S
+    #fp2_1271.S
 )
