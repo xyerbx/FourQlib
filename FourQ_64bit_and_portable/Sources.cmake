@@ -1,0 +1,27 @@
+rbx_target_sources(
+    ${TARGETNAME}
+    SOURCES
+    crypto_util.c
+    eccp2.c
+    eccp2_core.c
+    eccp2_no_endo.c
+    FourQ.h
+    FourQ_api.h
+    FourQ_internal.h
+    FourQ_params.h
+    FourQ_tables.h
+    hash_to_curve.c
+    kex.c
+    schnorrq.c
+    table_lookup.h
+)
+
+rbx_target_sources(
+    ${TARGETNAME}
+    SUBDIR AMD64
+    SOURCES
+    consts.c
+    fp_x64.h
+    fp2_1271_AVX2.S
+    fp2_1271.S
+)

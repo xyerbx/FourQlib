@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\Git\xye\FourQlib\output\build.windows\CMakeFiles\105c35c67d81a97c5eace5b2105a76ac\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D6FC8079-32E0-3947-92D0-C2CE09D9A6ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

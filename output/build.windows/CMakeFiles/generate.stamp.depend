@@ -1,0 +1,46 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/FetchContent.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/3.27.8/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+G:/Git/roblox/security-buildsystem/cmake/packages/FindWDK.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-compiler-config.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-compiler-msvc.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-compiler.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-env-windows.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-env.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-internal-options.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-platform-windows.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-platform.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-prelude.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-project.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-target.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-util-cmake.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-util-core.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-util-find.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-util-log.cmake
+G:/Git/roblox/security-buildsystem/cmake/rbx-util-options.cmake
+G:/Git/xye/FourQlib/CMakeLists.txt
+G:/Git/xye/FourQlib/output/build.windows/CMakeFiles/3.27.8/CMakeCCompiler.cmake
+G:/Git/xye/FourQlib/output/build.windows/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake
+G:/Git/xye/FourQlib/output/build.windows/CMakeFiles/3.27.8/CMakeRCCompiler.cmake
+G:/Git/xye/FourQlib/output/build.windows/CMakeFiles/3.27.8/CMakeSystem.cmake

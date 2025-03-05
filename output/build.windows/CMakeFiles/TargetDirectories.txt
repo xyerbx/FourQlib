@@ -1,0 +1,3 @@
+G:/Git/xye/FourQlib/output/build.windows/CMakeFiles/ALL_BUILD.dir
+G:/Git/xye/FourQlib/output/build.windows/CMakeFiles/ZERO_CHECK.dir
+G:/Git/xye/FourQlib/output/build.windows/FourQ_64bit_and_portable/CMakeFiles/FourQ.dir
