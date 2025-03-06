@@ -51,7 +51,7 @@ void mod1271(felm_t a)
 }
 
 
-__inline void fpcopy1271(felm_t a, felm_t c)
+void fpcopy1271(felm_t a, felm_t c)
 { // Copy of a field element, c = a
     c[0] = a[0];
     c[1] = a[1];
@@ -65,7 +65,7 @@ static __inline void fpzero1271(felm_t a)
 }
 
 
-__inline void fpadd1271(felm_t a, felm_t b, felm_t c)
+void fpadd1271(felm_t a, felm_t b, felm_t c)
 { // Field addition, c = a+b mod (2^127-1)
     
 #if defined(UINT128_SUPPORT)
@@ -89,7 +89,7 @@ __inline void fpadd1271(felm_t a, felm_t b, felm_t c)
 }
 
 
-__inline void fpsub1271(felm_t a, felm_t b, felm_t c)
+void fpsub1271(felm_t a, felm_t b, felm_t c)
 { // Field subtraction, c = a-b mod (2^127-1)
     
 #if defined(UINT128_SUPPORT)
