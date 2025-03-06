@@ -7,6 +7,9 @@ set_target_properties (${TARGETNAME} PROPERTIES FOLDER Libs)
 
 target_compile_definitions(${TARGETNAME} PRIVATE
   "__WINDOWS__"
+  "_AMD64_"
+  "_AVX_"
+  "USE_ENDO=true"
 )
 target_include_directories(${TARGETNAME} PUBLIC
  "."
