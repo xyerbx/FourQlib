@@ -14,6 +14,10 @@ rbx_target_sources(
     kex.c
     schnorrq.c
     table_lookup.h
+    ../random/random.h
+    ../random/random.h
+    ../sha512/sha512.h
+    ../sha512/sha512.h
 )
 
 rbx_target_sources(
